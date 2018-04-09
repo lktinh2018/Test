@@ -15,3 +15,7 @@ while True:
         cv2.imshow('Video', img)
         if cv2.waitKey(1) == 27:
             exit(0)
+
+
+            a[:, 2]
+            [::-1]
