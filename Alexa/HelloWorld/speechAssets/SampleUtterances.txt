@@ -1,4 +1,0 @@
-TestIntent hello world
-TestIntent say hello world
-TestIntent to say hello world
-
